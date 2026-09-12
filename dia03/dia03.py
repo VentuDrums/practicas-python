@@ -1,7 +1,7 @@
 #Estos  son los ejercicios del día 3 de 30 dias con python
 
 edad = int(30)
-altura = float(1,78)
+altura = float(1.78)
 complex = complex(1 + 1j)
 
 #script que pide base y altura de un triangulo y calcula su area
